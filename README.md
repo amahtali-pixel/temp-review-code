@@ -73,12 +73,25 @@ This repository contains the official implementation of the **Radial Encoding Fr
 ## ⚖️ Legal & Licensing Information
 
 ### 📄 Code License
-The implementation code in this repository is released under the **Apache License 2.0**, permitting:
+The implementation code in this repository is released under the **Apache License 2.0** for **non-commercial purposes only**.
 
-- ✅ Commercial and non-commercial use
-- ✅ Modification and distribution
-- ✅ Express patent grant for users of this implementation
-- ✅ Requirement: Attribution and license preservation
+**⚠️ IMPORTANT COMMERCIAL USE RESTRICTION:**
+
+While the code is open source under Apache 2.0, the underlying **patented methodology** (Algerian Patent DZ/P/2025/1546) is NOT licensed for commercial use.
+
+| Use Type | Allowed? |
+|----------|----------|
+| Research, education, personal projects | ✅ Yes (free) |
+| Open-source contributions | ✅ Yes (free) |
+| **Commercial products or services** | ❌ **No** (requires separate license) |
+| Monetization of any kind | ❌ **No** (requires separate license) |
+
+**For commercial licensing inquiries**, please contact the author.
+
+**Permitted uses under Apache 2.0 (non-commercial):**
+- ✅ Non-commercial use
+- ✅ Modification and distribution for non-commercial purposes
+- ✅ Attribution and license preservation
 
 ### 🔒 Patent Protection
 The underlying Radial Encoding Framework methodology represents novel research and is protected under applicable patent laws.
