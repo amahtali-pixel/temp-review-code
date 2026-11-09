@@ -20,3 +20,4 @@
 "# Results directories" 
 "results/" 
 "analysis_results/" 
+.idea/ 
